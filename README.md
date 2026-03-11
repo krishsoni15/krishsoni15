@@ -25,7 +25,7 @@ Ideas are common. Building them is rare — I enjoy turning *“what if?”* ide
 ## 🚀 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,typescript,javascript,docker,git,github,aws,cloudflare,vercel&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,redis,tailwind,typescript,javascript,python,linux,docker,git,github,aws,cloudflare,vercel&perline=9" />
 </p>
 
 ---
