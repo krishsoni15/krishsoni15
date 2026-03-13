@@ -40,9 +40,7 @@ Ideas are common. Building them is rare — I enjoy turning *“what if?”* ide
 
 </p>
 
----
 
-## 📈 Contribution Graph
 
 <!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishsoni15&theme=github-dark&hide_border=true"/>
