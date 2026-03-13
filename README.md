@@ -44,7 +44,7 @@ Ideas are common. Building them is rare — I enjoy turning *“what if?”* ide
 
 ## 📈 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krishsoni15&theme=github-dark&hide_border=true"/>
 </p>
 
@@ -52,4 +52,4 @@ Ideas are common. Building them is rare — I enjoy turning *“what if?”* ide
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krishsoni15&label=Profile%20views&color=22c55e&style=flat" />
-</p>
+</p> -->
