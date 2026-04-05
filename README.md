@@ -50,4 +50,5 @@ Ideas are common. Building them is rare — I enjoy turning *“what if?”* ide
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=krishsoni15&label=Profile%20views&color=22c55e&style=flat" />
+<!-- not just code solve real problem
 </p> -->
