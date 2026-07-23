@@ -28,7 +28,7 @@ Ideas are common. Building them is rare — I enjoy turning *“what if?”* ide
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,redis,tailwind,typescript,javascript,python,linux,docker,git,github,aws,cloudflare,vercel&perline=9" />
 </p>
 
----
+
 
 
 
